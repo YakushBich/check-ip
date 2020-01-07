@@ -1,7 +1,7 @@
 # Info
 checking all info about ip[need whois]
 # Need
-you needed python3 and cmd "whois"
+you needed python3 and cmd "whois"\n
 work in Windows(with "whois") and Linux
 # Usage
 git clone https://github.com/YakshBch/check-ip
